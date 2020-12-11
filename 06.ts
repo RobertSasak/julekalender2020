@@ -1,5 +1,4 @@
 import * as fs from 'fs'
-import { fileURLToPath } from 'url'
 
 const run = (file: string, elfs: number): number => {
   const list = fs
